@@ -29,32 +29,10 @@
 
 ---
 
-### 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/Forsbergs-Skola/BeastKartsProject">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Forsbergs-Skola&repo=BeastKartsProject&theme=radical" />
-</a>
-<a href="https://github.com/Forsbergs-Skola/VampireSurvivorRaylib">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Forsbergs-Skola&repo=VampireSurvivorRaylib&theme=radical" />
-</a>
-
-</div>
-
----
-
 ### 🧰 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,cs,unity,unrealengine,git,github,vscode,html,css,js" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 </p>
 
 ---
@@ -63,19 +41,10 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AbdessamadChaoui&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdessamadChaoui&layout=compact&theme=radical&hide_border=true" />
+
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdessamadChaoui&theme=radical&hide_border=true" />
 
-</div>
-
----
-
-### 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdessamadChaoui&theme=react-dark&hide_border=true" />
 </div>
 
 ---
@@ -91,6 +60,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AbdessamadChaoui&color=00FF9C&style=flat-square&label=Profile+Views)
 
-**💬 Open to LIA internship opportunities in game development — let's talk!**
+**💬 Open to LIA internship opportunities in game development... let's talk!**
 
 </div>
